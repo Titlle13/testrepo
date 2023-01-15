@@ -1,0 +1,14 @@
+Which of the following do you use to request that someone reviews and approves your changes to a project before they become final?
+pull request
+
+2.Which git command allows you to see the state of your working directory and the staged snapshot of your changes?
+git-status
+
+3.Which of the following is a feature of the Git Repository model?
+it is a distributed version control system
+
+4 In GitHub, what is an organization? A collection of user accounts that owns
+repositories
+
+5 Under which tab on GitHub will you find all the source files for a repository?
+<> code
